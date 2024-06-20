@@ -1,5 +1,8 @@
 /*
  *	Color class
+ *	Name: Yikai Peng
+ *	email: ypeng83@wisc.edu
+ *	CS account username: yikaip
  */
 public class Color{
 	private String color;
